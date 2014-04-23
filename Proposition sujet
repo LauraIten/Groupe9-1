@@ -1,9 +1,0 @@
-Voici ma proposition quant au sujet : 
-•	Intitulé du modèle choisi
-Modélisation des relations entre producteur et consommateur.
-•	Descriptif du problème abordé
-Modélisation de la croissance de la population en fonction des ressources (agricoles) disponibles. 
-•	Éléments du modèle
-On pourrait ajouter les saisons et leur impact en fonction de la position du producteur. La population pourrait varier (par choix de l’expérimentateur ou autres paramètres à définir). En complexifiant la chose on pourrait ajouter des apiculteurs avec un rayon d'action variable qui pourraient affecter le rendement des producteurs. De plus, il faudrait ajouter des "routes" pour s'approcher de réalité. On pourrait aussi implémenter des éléments autres que les champs et habitations (base du modèle) tel que des forets ou lacs (fonction a définir). 
-•	Modèle viable minimal
-Dans un premier temps avec une population de consommateur et de producteurs fixe sans prendre en compte les saisons (modèle de base-simple).
